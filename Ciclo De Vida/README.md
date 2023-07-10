@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
-Objetivo do curso foi criar uma lista de compra, onde os itens podem ser excluidos, editados ou excluir toda a lista, onde aprendemos sobre o ciclo de vida do angular, desde de seu nascimento ate a destruição do componente, 
+Objetivo do curso foi criar uma lista de compra, onde os itens podem ser excluidos, editados ou excluir toda a lista, onde aprendemos sobre o ciclo de vida do angular, memory leak e localstorage, desde de seu nascimento ate a destruição do componente, 
 
 ## Development server
 
