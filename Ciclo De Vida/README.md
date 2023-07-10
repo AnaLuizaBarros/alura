@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
+Objetivo do curso foi criar uma lista de compra, onde os itens podem ser excluidos, editados ou excluir toda a lista, onde aprendemos sobre o ciclo de vida do angular, desde de seu nascimento ate a destruição do componente, 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
