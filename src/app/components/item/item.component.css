@@ -15,7 +15,6 @@ small {
 }
 
 .checkbox {
-  /* justify-self: start; */
   grid-area: checkbox;
 }
 
@@ -40,7 +39,9 @@ small {
   align-self: center;
   grid-area: edit-icon;
 }
-
+.delete-icon, .edit-icon{
+  cursor: pointer;
+}
 .date {
   justify-self: start;
   grid-area: date;
